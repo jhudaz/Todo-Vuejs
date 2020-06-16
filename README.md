@@ -2,7 +2,7 @@
 
 A simple crud application using vuejs
 
-https://github.com/jhudaz/Todo-Vuejs/blob/master/vue.jpeg?raw=true
+![alt text](https://github.com/jhudaz/Todo-Vuejs/blob/master/vue.jpeg?raw=true)
 
 ### Tech
 
