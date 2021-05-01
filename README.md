@@ -1,6 +1,6 @@
-# Todo Vuejs
+# Todo App
 
-A simple crud application using vuejs
+Todo application build in [Vue](https://vuejs.org/) with create, read, delete and update functions 
 
 ![alt text](https://github.com/jhudaz/Todo-Vuejs/blob/master/vue.jpeg?raw=true)
 
